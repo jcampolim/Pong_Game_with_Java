@@ -1,6 +1,6 @@
 # Pong_Game_with_Java
 
-This is a simple pong game that I made just for fun with Java and I really like the results!
+This is a simple pong game that I made just for fun with Java and I really liked the results!
 
 Each file was made for an element of the game, so we have the ball and both players. Game file is where the main code is and the Points file is there to print the points and the winner on the screen.
 
